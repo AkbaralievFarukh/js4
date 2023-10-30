@@ -48,3 +48,32 @@
 //
 // console.log(passwordChecker('170707', '170707'))
 // console.log(passwordChecker('130303', '170707'))
+
+// Задание 5
+
+// let arr = ['lorem', 'ipsum', 'dolor', 'sit']
+// function getLength(str) {
+//     return str.length
+// }
+//
+// console.log(arr.map(getLength))
+
+// Задание 6
+
+// let arr = ['lorem', 'ipsum', 'dolor']
+// let newArr = arr.map((el, idx) => idx + 1)
+// console.log(newArr)
+
+// Задание 7
+
+// let inputArray = ['lorem', 'ipsum', 'dolor'];
+// let outputArray = inputArray.map((element, index) => {
+//     if (index % 2 === 0) {
+//         // Если это не четный элемент, то преобразуйте его в верхний регистр
+//         return element.charAt(0).toUpperCase() + element.slice(1);
+//     } else {
+//         // В противном случае оставьте строку неизменной
+//         return element;
+//     }
+// });
+// console.log(outputArray);
