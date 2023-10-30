@@ -24,5 +24,9 @@
 // let arr = ['Aidin', 'Farukh', 'Shabdan', 'Kamilla']
 // console.log(arr.filter(item => item.length % 2 === 0))
 
-let arr = ['Aidin', 'Farukh', 'Shabdan', 'Kamilla', 'Karina']
-console.log(arr.filter(el => el.includes('K')))
+// let arr = ['Aidin', 'Farukh', 'Shabdan', 'Kamilla', 'Karina']
+// console.log(arr.filter(el => el.includes('K')))
+
+
+
+
